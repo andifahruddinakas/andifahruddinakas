@@ -7,7 +7,6 @@
 
 <br />
 
----
 ### Connect With Me:
 
 [<img align="left" alt="agungsugiarto" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,8 +16,8 @@
 [<img align="left" alt="agungsugiarto | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
 
----
 ### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,8 +34,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
 
 <br />
+<br />
 
----
 ### GitHub Stats :
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=afa28&theme=dark&show_icons=true)
