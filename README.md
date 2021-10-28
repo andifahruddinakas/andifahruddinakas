@@ -38,10 +38,10 @@
 
 ### GitHub Stats :
 
-![github stats](https://github-readme-stats.vercel.app/api?username=afa28&theme=dark&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=andifahruddinakas&theme=dark&show_icons=true)
 
-[github]: https://afa28.github.io
-[website]: https://github.com/afa28
+[github]: https://andifahruddinakas.github.io
+[website]: https://github.com/andifahruddinakas
 [twitter]: https://twitter.com/FahruddinAkas
 [instagram]: https://www.instagram.com/andifahruddinakas
 [facebook]: https://web.facebook.com/fahruddinakas
